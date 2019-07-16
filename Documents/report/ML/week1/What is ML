@@ -1,0 +1,40 @@
+Machine Learning
+What is it?
+    + An application of aritificial of intelligence (AI)
+        + what is AI?
+            AI is a science to make system intelligent like human.
+    + Provides systems the ability to automatically learn and improve from exp (not programmed)
+
+How it work?
+    + First, we need example data (or test data).
+    + Then, "system will look" at that data and make decisions in the future based on the example data above.
+    + The important thing is the "system will look", this is the primary aim in ML which is to allow systems learn automatically.
+
+ML often categorized as supervised or unsupervised
+    + Supervised (have teacher): 
+        + Use label. How?
+            (label, a.k.a a name of something,... ex: dog, cat, bird,...)
+            + First: analize a known training dataset
+            (dataset: a set of datas)
+            + Then: the system will predict the output
+            * The learning algo compare to output with the intended output to find error and modify the model.
+    + Unsupervised (no teacher):
+        + No classify, no label.
+        + The system doesn't figure out the right output, it explore the data and draw inference from dataset to describe hidden structures from data.
+             
+            
+        
+
+
+
+
+
+
+
+
+
+
+
+
+Source:
+https://www.expertsystem.com/machine-learning-definition/
