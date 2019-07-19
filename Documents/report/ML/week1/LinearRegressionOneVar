@@ -1,0 +1,26 @@
+Regression is 
+    + Catch the trend in a given data set.
+    + Storing what we’ve learnt about that data into a model   
+    + Then using that model to make predictions for new inputs.
+Linear regression with one variable
+def:
+    Hypothesis:
+        is our prediction of how the curve might look
+    Cost Function: 
+        is a measure of how far we are from the required answer. The smaller it is, the better.
+        Mean Squared Error Function
+    Gradient Descent: 
+        It is an optimization function that changes the values of theta 0 and theta 1 based on the slope of the cost function curve at that point.
+        The changes in theta 0 and theta 1 inturn change our hypothesis so as to get a better fit to the given data. 
+        This is accomplished by taking steps towards the correct prediction where size of the step depends both on the slope of the cost funciton at that point and the learning rate.        
+    
+
+The process:
+Step 1: Fetch the data, clean it and then analyze it. Finally, choose what machine learning technique to use.
+Step 2: Set up your hypothesis and Cost function. Initialize regression parameters. 
+Step 3: Iteratively run the Gradient Descent algorithm on all the data points while updating the hypothesis so as to minimize the error.
+Step 4: Test how accurate your model’s predictions are.
+
+
+        
+https://medium.com/@ranaprathap/learning-ml-with-andrew-part-1-linear-regression-with-a-single-variable-615f2d163b88

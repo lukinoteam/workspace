@@ -1,0 +1,7 @@
+infrastructure: cơ sở hạ tầng
+methodologies: phương pháp luận
+simultaneously: đồng thời
+hypervisor:
+streamline: tinh giản
+
+
