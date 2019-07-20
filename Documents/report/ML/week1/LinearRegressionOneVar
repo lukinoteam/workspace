@@ -22,5 +22,8 @@ Step 3: Iteratively run the Gradient Descent algorithm on all the data points wh
 Step 4: Test how accurate your model’s predictions are.
 
 
+nhạy cảm với nhiễu
+trước khi thực hiện Linear Regression, các nhiễu (outlier) cần phải được loại bỏ. Bước này được gọi là tiền xử lý (pre-processing).
+“Do not let your model learn from outliers. Remove them”
         
 https://medium.com/@ranaprathap/learning-ml-with-andrew-part-1-linear-regression-with-a-single-variable-615f2d163b88

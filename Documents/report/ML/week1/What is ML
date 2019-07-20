@@ -1,20 +1,32 @@
 Machine Learning
+
 What is it?
-    + An application of aritificial of intelligence (AI)
+    + An application of aritificial of intelligence (AI) (child of AI).
         + what is AI?
             AI is a science to make system intelligent like human.
-    + Provides systems the ability to automatically learn and improve from exp (not programmed)
+    + Provides systems the ability to automatically learn and improve from exp (not programmed).
+
+Have we seen ML before?
+    + Facebook tag, Apple's Siri, Amazon recommendation system, alphago,...
 
 How it work?
     + First, we need example data (or test data).
     + Then, "system will look" at that data and make decisions in the future based on the example data above.
     + The important thing is the "system will look", this is the primary aim in ML which is to allow systems learn automatically.
 
+Why ML? Why now?
+    + Trước đây, thông tin không phải là ít. Nhưng lúc ấy, mọi người ngồi quanh 1 đống dữ liệu và không biết phải xử lí như n
++ào.
+    + Đến 1 ngày, mấy lão mới nhận ra đống dữ liệu ấy là 1 khối tri thức khổng lồ.
+        + Từ danh sách phim yêu thích => Sở thích => gợi ý những bộ phim hợp sở thích mà họ chưa xem.
+        + Từ danh sách tìm kiếm => trend của xã hội hiện tại => đăng tải nhiều tin tức về trend đó.
+    + Hiện nay, thời đại bùng nổ thông tin, khối lượng dữ liệu lớn, rất nhiều dữ liệu để xử lí => Độ chính xác được nâng lên.
+
 ML often categorized as supervised or unsupervised
     + Supervised (have teacher): 
         + Use label. How?
             (label, a.k.a a name of something,... ex: dog, cat, bird,...)
-            + First: analize a known training dataset
+            + First: analize a known training dataset.
             (dataset: a set of datas)
             + Then: the system will predict the output
             * The learning algo compare to output with the intended output to find error and modify the model.
@@ -22,19 +34,11 @@ ML often categorized as supervised or unsupervised
         + No classify, no label.
         + The system doesn't figure out the right output, it explore the data and draw inference from dataset to describe hidden structures from data.
              
-            
+ML quan hệ mật thiết với thống kê (statistics)
+    + Khả năng tổng quát hóa, thể hiện ở các mô hình thống kê để "ghi nhớ" sự phân bố của dữ liệu.
+
+ML chỉ dự đoán được tương lai nếu tương lai có mối quan hệ mật thiết với hiện tại.            
         
-
-
-
-
-
-
-
-
-
-
-
 
 Source:
 https://www.expertsystem.com/machine-learning-definition/
